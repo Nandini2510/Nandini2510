@@ -16,7 +16,7 @@
 -  **Languages :** C++ | JavaScript | Python💻
 -  **Hobbies :** Books📕 & Dance :headphones:
 -  **Fact :** It all starts with a wrong decision, take it easy! 🎯
-  - 📫 How to reach me **nandini976804@gmail.com**
+  - 📫 How to reach me:  **nandini976804@gmail.com**
 
 
 <p align="center">
