@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"><samp>
+  Hi, I'm Nandini Yadav :wave: <samp>
+</h1>
+<p align="center">
+  <samp>
+  React Developer | Content Writer | Avid Reader
+  </samp>
+  
+</p>
 
-<!--
-**Nandini2510/Nandini2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <i>About</i>
+ 
+-  **Learning :** MERN Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** C++ | JavaScript | Python💻
+-  **Hobbies :** Books📕 & Dance :headphones:
+-  **Fact :** It all starts with a wrong decision, take it easy! 🎯
+  - 📫 How to reach me **nandini976804@gmail.com**
+
+
+<p align="center">
+  <img alt="Nandini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nandini2510&show_icons=true&theme=radical">
+</p>
+
+
+
+
+
+<p align="left">
+  <img src="https://gpvc.arturio.dev/Nandini2510" alt="Profile views" />
+</p>
