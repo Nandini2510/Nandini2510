@@ -19,10 +19,10 @@
   - 📫 How to reach me:  **nandini976804@gmail.com**
 
 
-<p align="left">
+<!-- <p align="left">
   <img alt="Nandini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nandini2510&show_icons=true&theme=radical">
 </p>
-
+ -->
 
 
 
