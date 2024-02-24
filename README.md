@@ -13,7 +13,7 @@
 ### <i>About</i>
  
 -  **Learning :** MERN Stack Development :zap: | Open-Source :fire:	
--  **Languages :** C++ | JavaScript | Python💻
+-  **Languages :** C++ | JavaScript | Python | SQL | ReactJS | HTML | CSS | Java | Docker | Git💻
 -  **Fact :** It all starts with a wrong decision, take it easy! 🎯
   - 📫 How to reach me:  **ynandini0625@gmail.com**
 
