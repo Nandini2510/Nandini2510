@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <samp>
-  React Developer | Content Writer | Avid Reader
+  Full Stack Developer | Data Analyst | Content Writer | Avid Reader
   </samp>
   
 </p>
