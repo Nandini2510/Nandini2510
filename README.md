@@ -1,5 +1,5 @@
 <h1 align="center"><samp>
-  Hi, I'm Nandini Yadav :wave: <samp>
+  Hi, I'm Nandani Yadav :wave: <samp>
 </h1>
 <p align="center">
   <samp>
