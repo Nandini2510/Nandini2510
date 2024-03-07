@@ -18,9 +18,7 @@
   - 📫 How to reach me:  **ynandini0625@gmail.com**
 
 
- <p align="left">
-  <img alt="Nandini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nandini2510&show_icons=true&theme=radical">
-</p>
+
  
 
 
