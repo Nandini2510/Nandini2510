@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <samp>
-  Software Engineer 
+  <b>A Software Engineer</b>
   </samp>
   
 </p>
