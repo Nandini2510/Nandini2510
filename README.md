@@ -1,28 +1,37 @@
-# 👋 Hello, World!
+# 👋 Hello World! I'm Nandani Yadav
 
-I'm **Nandani Yadav** — a Software Engineer with a Master's in Computer Science from the University of Florida.
+> "In the code of life, always strive to be the feature, not the bug." 🐛➡️✨
 
 ## 🚀 About Me
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-### 🛠 Technologies & Tools:
-- **Languages:** TypeScript, Golang, Python, JavaScript, Java, SQL
-- **Frameworks/Libraries:** React, Node.js, Terraform, Docker, Jenkins, MongoDB
-- **Cloud:** AWS
-- **Tools:** Git, VSCode, Gradle, CI/CD
+I'm a Software Engineer with a knack for turning coffee into code and bugs into features. My journey in tech is like a well-optimized algorithm: constantly improving and always aiming for the most efficient solution.
 
-### 🏢 Experience:
-- **Corbalt:** Terraform Drift Detection Dashboard, website maintenance
-- **Goldman Sachs:** ETL optimization, SQL performance enhancement
-- **University of Florida:** Cyber-attack prediction algorithms
-- **Fynd:** Student dashboard development
-- **Idealite Technologies:** LMS optimization, dynamic file icon system
+### 🧠 My Tech Stack is Taller Than My Coffee Stack
 
+- 💻 Fluent in: Terraform, GO, AWS, Docker, Jenkins
+- 🐍 Python whisperer (I speak parseltongue to my code)
+- ☕ Java junkie (not just the beverage kind)
+- 🌐 Web wizard with React, JavaScript, and Node.js
+- 🗄️ Data wrangler: SQL, Hadoop, Apache Spark
 
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+## 🛠️ Current Adventures
 
-### 💡 Let's Connect:
+- 🔍 Detecting infrastructure drift faster than you can say "AWS"
+- 🤖 Teaching machines to learn (so I don't have to)
+- 🚀 Transforming ETL systems from tortoise to hare
+
+## 🏆 Achievements
+
+- 🏎️ Turbo-charged SQL queries, making them 75% faster (My code runs so fast, it finishes before it starts)
+- 🎨 Crafted a student dashboard that's more engaging than a cat video
+- 🔐 Designed security systems to keep data safer than a squirrel's nut stash in winter
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate, chat about tech, or debate the best programming puns. I'm always open to new opportunities and connections.
+
+> "It all started with I don't know anything and I still don't know everything"
+
 - [LinkedIn](https://linkedin.com/in/nandini2510)
 - [Email](mailto:yadavnandani2510@gmail.com)
 
-Feel free to check out my repositories. Let's build something amazing together! 🚀
