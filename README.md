@@ -6,6 +6,11 @@
 
 I'm a Software Engineer with a knack for turning coffee into code and bugs into features. My journey in tech is like a well-optimized algorithm: constantly improving and always aiming for the most efficient solution.
 
+When I'm not busy debugging the matrix, you can find me:
+- 🌍 Exploring new destinations
+- 💃 Dancing (because sometimes you need to shake off those coding blues)
+- 📚 Reading 
+
 ### 🧠 My Tech Stack is Taller Than My Coffee Stack
 
 - 💻 Fluent in: Terraform, GO, AWS, Docker, Jenkins
@@ -19,12 +24,6 @@ I'm a Software Engineer with a knack for turning coffee into code and bugs into 
 - 🔍 Detecting infrastructure drift faster than you can say "AWS"
 - 🤖 Teaching machines to learn (so I don't have to)
 - 🚀 Transforming ETL systems from tortoise to hare
-
-## 🏆 Achievements
-
-- 🏎️ Turbo-charged SQL queries, making them 75% faster (My code runs so fast, it finishes before it starts)
-- 🎨 Crafted a student dashboard that's more engaging than a cat video
-- 🔐 Designed security systems to keep data safer than a squirrel's nut stash in winter
 
 ## 📫 Let's Connect!
 
