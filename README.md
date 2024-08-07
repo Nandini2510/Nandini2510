@@ -13,7 +13,7 @@ When I'm not busy debugging the matrix, you can find me:
 
 ### 🧠 My Tech Stack is Taller Than My Coffee Stack
 
-- 💻 Fluent in: Terraform, GO, AWS, Docker, Jenkins
+- 💻 Currently Learning: Terraform, GO, AWS, Docker, Jenkins
 - 🐍 Python whisperer (I speak parseltongue to my code)
 - ☕ Java junkie (not just the beverage kind)
 - 🌐 Web wizard with React, JavaScript, and Node.js
